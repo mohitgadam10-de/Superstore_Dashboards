@@ -45,7 +45,7 @@ The dataset represents a fictional retail superstore and includes:
 ## 🔑 Key Features & Insights
 
 ## Dashboard 1️⃣: Superstore Sales Overview
-<img width="1365" height="804" alt="Superstore Overview Dashboard" src="https://github.com/user-attachments/assets/overview-placeholder" />
+<img width="1494" height="791" alt="image" src="https://github.com/user-attachments/assets/0381b4ef-a2d9-47bf-bf48-e4f1fdc299c0" />
 
 A high-level executive snapshot of retail performance.
 * 💰 **Strong Revenue Base:** Total sales of **$2.3M** supported by **4,922 orders** and **793 customers**.
@@ -60,7 +60,7 @@ A high-level executive snapshot of retail performance.
 ---
 
 ## Dashboard 2️⃣: Sales Forecast — Actuals vs. Estimated Projections
-<img width="1360" height="762" alt="Superstore Forecast Dashboard" src="https://github.com/user-attachments/assets/forecast-placeholder" />
+<img width="1494" height="790" alt="image" src="https://github.com/user-attachments/assets/a1a68a20-34af-4a52-8ccb-cfcca2473d97" />
 
 A time-series analysis comparing historical actuals against projected future sales.
 * 📉 **Short-Term Volatility, Long-Term Growth:** Actual sales fluctuate week-to-week but follow a strong upward trend.
