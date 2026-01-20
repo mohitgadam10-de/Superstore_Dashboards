@@ -104,6 +104,7 @@ A deep dive into category-level and sub-category-level performance from 2015–2
 
 * **Tableau Public** — Data modeling, calculated fields, forecasting, and visual analytics.
 * **Excel / CSV** — Source data format.
+* **Kaggle — Dataset hosting
 * **Mapbox / OpenStreetMap** — Geographic visualization.
 
 ---
